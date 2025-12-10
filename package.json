@@ -1,0 +1,12 @@
+{
+  "name": "copilot-approval-function",
+  "version": "1.0.0",
+  "description": "Azure Function HTTP trigger para aprovação de requisições ao Copilot for Security via APIM",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests configured\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
